@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/MA4.dir/threadPool.c.o CMakeFiles/MA4.dir/osqueue.c.o CMakeFiles/MA4.dir/test1.c.o  -o MA4 
